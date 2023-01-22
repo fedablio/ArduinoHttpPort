@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mnEndereco"
+        android:orderInCategory="101"
+        android:alphabeticShortcut="e"
+        android:titleCondensed="Endereço"
+        android:title="Address">
+    </item>
+    <item
+        android:id="@+id/mnPorta"
+        android:orderInCategory="102"
+        android:alphabeticShortcut="p"
+        android:titleCondensed="Porta"
+        android:title="Port">
+    </item>
+    <item
+        android:id="@+id/mnSobre"
+        android:orderInCategory="103"
+        android:alphabeticShortcut="s"
+        android:titleCondensed="Sobre"
+        android:title="About">
+    </item>
+</menu>
